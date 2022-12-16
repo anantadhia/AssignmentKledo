@@ -7,7 +7,7 @@ body {
 /* Bagian Navbar */
 .navMenu {
   position: fixed;
-  z-index: 2;
+  z-index: 4;
   text-align: center;
   margin: 50px;
   padding: 20px;
